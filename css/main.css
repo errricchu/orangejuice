@@ -1,0 +1,115 @@
+.nav {
+	background-color: orange;
+	border-bottom: solid 5px #C35817;
+	font-family: "Arial Rounded MT", "Helvetica Rounded", Arial, sans-serif;
+	padding: 35px 0 45px 0;
+}
+
+.top {
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+	font-weight: bold;
+}
+
+li {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	margin: auto;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	padding-right: 60px;
+
+}
+
+section {
+	padding-top: 70px;
+	padding-right: 160px;
+	padding-left: 160px;
+}
+
+.leftnav {
+	float: left;
+	font-size: 20px;
+}
+
+.rightnav {
+	float: right;
+	font-size: 15px;
+}
+
+.ul {
+	color: white;
+}
+
+
+input {
+	float: right;
+	border: none;
+}
+
+i {
+	float: right;
+}
+
+.orange {
+	float: left;
+}
+
+.text {
+	float: right;
+	font-family: "Arial Rounded MT", "Helvetica Rounded", Arial, sans-serif;
+	color: orange;
+	font-size: 30px;
+
+}
+
+span {
+	font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
+}
+
+.teal {
+	color: #00CED1;
+}
+
+button {
+	border-style: none;
+	padding: 20px;
+
+}
+
+.quote {
+	background-color: orange;
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+}
+
+.studies {
+	background-color: #B6B6B4;
+	color: white;
+	font-family: arial;
+	font-weight: bold;
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: #B6B6B4;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
